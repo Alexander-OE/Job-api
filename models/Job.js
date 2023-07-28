@@ -17,7 +17,6 @@ const jobSchema = new mongoose.Schema(
       enum: ["interview", "declined", "pending"],
       default: "pending",
     },
-    //   we tie the job to the actual user
     createdBy: {
       type: mongoose.Types.ObjectId,
       ref: "User",
