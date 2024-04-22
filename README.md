@@ -1,8 +1,8 @@
-# Recruitment API
+# Jobify
 
-<!--[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/yourusername/recruitment-api)-->
+<!--[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/yourusername/jobify)-->
 
-This is a Recruitment API developed using Node.js, Express.js, MongoDB, and Json web Token(JWT). It allows users to efficiently manage the entire recruitment process, from job listings to candidate applications.
+This is a Jobify API developed using Node.js, Express.js, MongoDB, and Json web Token(JWT). It allows users to efficiently manage the entire recruitment process, from job listings to candidate applications.
 
 ## Features
 - Register and Login user
@@ -28,8 +28,8 @@ This is a Recruitment API developed using Node.js, Express.js, MongoDB, and Json
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Alexander-OE/Job-api.git
-cd Job-api
+git clone https://github.com/Alexander-OE/jobify.git
+cd jobify
 ```
 
 1. Install dependencies: npm install
